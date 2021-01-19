@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "lE6z8E9AI+mpBoKDOGWJK6HnhDo2rBIMrvgUHIBj3bD9B0n9dx8vNJNP+EBnQsYay6rlaCx1auLeY6FedT9IJA==",
+  "success": false,
+  "projectFilePath": "D:\\GitHub\\HoloPlay\\Assets\\HoloPlay.Dependencies.msb4u.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package MSBuildForUnity. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages, NuGet, nuget.org",
+      "libraryId": "MSBuildForUnity",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.6"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,181 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &6145415085721669040
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1817101189443250748, guid: b9308c4c0ef279848a689f98650f9e11,
+        type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2357014958009590333, guid: b9308c4c0ef279848a689f98650f9e11,
+        type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2357014958009590333, guid: b9308c4c0ef279848a689f98650f9e11,
+        type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2357014958009590333, guid: b9308c4c0ef279848a689f98650f9e11,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2357014958009590333, guid: b9308c4c0ef279848a689f98650f9e11,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2357014958009590333, guid: b9308c4c0ef279848a689f98650f9e11,
+        type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4073836128353528230, guid: b9308c4c0ef279848a689f98650f9e11,
+        type: 3}
+      propertyPath: onManipulationStarted.m_PersistentCalls.m_Calls.Array.data[1].m_Target
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 4073836128353528230, guid: b9308c4c0ef279848a689f98650f9e11,
+        type: 3}
+      propertyPath: onManipulationEnded.m_PersistentCalls.m_Calls.Array.data[1].m_Target
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 5012180011193569087, guid: b9308c4c0ef279848a689f98650f9e11,
+        type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5012180011193569087, guid: b9308c4c0ef279848a689f98650f9e11,
+        type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5012180011193569087, guid: b9308c4c0ef279848a689f98650f9e11,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5012180011193569087, guid: b9308c4c0ef279848a689f98650f9e11,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6016563984512747456, guid: b9308c4c0ef279848a689f98650f9e11,
+        type: 3}
+      propertyPath: m_Name
+      value: DocomoARNavi
+      objectReference: {fileID: 0}
+    - target: {fileID: 6016563984512747457, guid: b9308c4c0ef279848a689f98650f9e11,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.030355
+      objectReference: {fileID: 0}
+    - target: {fileID: 6016563984512747457, guid: b9308c4c0ef279848a689f98650f9e11,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.19648
+      objectReference: {fileID: 0}
+    - target: {fileID: 6016563984512747457, guid: b9308c4c0ef279848a689f98650f9e11,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.0039729
+      objectReference: {fileID: 0}
+    - target: {fileID: 6016563984512747457, guid: b9308c4c0ef279848a689f98650f9e11,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6016563984512747457, guid: b9308c4c0ef279848a689f98650f9e11,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6016563984512747457, guid: b9308c4c0ef279848a689f98650f9e11,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6016563984512747457, guid: b9308c4c0ef279848a689f98650f9e11,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6016563984512747457, guid: b9308c4c0ef279848a689f98650f9e11,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6016563984512747457, guid: b9308c4c0ef279848a689f98650f9e11,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6016563984512747457, guid: b9308c4c0ef279848a689f98650f9e11,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6016563984512747457, guid: b9308c4c0ef279848a689f98650f9e11,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6016563985014634454, guid: b9308c4c0ef279848a689f98650f9e11,
+        type: 3}
+      propertyPath: m_text
+      value: Docomo AR Calling
+      objectReference: {fileID: 0}
+    - target: {fileID: 7768620083808903453, guid: b9308c4c0ef279848a689f98650f9e11,
+        type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7768620083808903453, guid: b9308c4c0ef279848a689f98650f9e11,
+        type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7768620083808903453, guid: b9308c4c0ef279848a689f98650f9e11,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7768620083808903453, guid: b9308c4c0ef279848a689f98650f9e11,
+        type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7768620083808903453, guid: b9308c4c0ef279848a689f98650f9e11,
+        type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7902627183481626752, guid: b9308c4c0ef279848a689f98650f9e11,
+        type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7902627183481626752, guid: b9308c4c0ef279848a689f98650f9e11,
+        type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7902627183481626752, guid: b9308c4c0ef279848a689f98650f9e11,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7902627183481626752, guid: b9308c4c0ef279848a689f98650f9e11,
+        type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: b9308c4c0ef279848a689f98650f9e11, type: 3}

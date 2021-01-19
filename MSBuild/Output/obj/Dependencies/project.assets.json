@@ -1,0 +1,75 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.6": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.6": [
+      "MSBuildForUnity >= 0.9.1-* <= 0.9.1"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Evan McCall\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\GitHub\\HoloPlay\\Assets\\HoloPlay.Dependencies.msb4u.csproj",
+      "projectName": "HoloPlay.Dependencies.msb4u",
+      "projectPath": "D:\\GitHub\\HoloPlay\\Assets\\HoloPlay.Dependencies.msb4u.csproj",
+      "packagesPath": "C:\\Users\\Evan McCall\\.nuget\\packages\\",
+      "outputPath": "D:\\GitHub\\HoloPlay\\MSBuild\\Output\\obj\\Dependencies\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "D:\\GitHub\\HoloPlay\\Assets\\NuGet.Config",
+        "C:\\Users\\Evan McCall\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net46"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "http://www.nuget.org/api/v2/": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net46": {
+          "targetAlias": "net46",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net46": {
+        "targetAlias": "net46",
+        "dependencies": {
+          "MSBuildForUnity": {
+            "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+            "suppressParent": "Analyzers",
+            "target": "Package",
+            "version": "[0.9.1-*, 0.9.1]"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package MSBuildForUnity. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages, NuGet, nuget.org",
+      "libraryId": "MSBuildForUnity",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.6"
+      ]
+    }
+  ]
+}
